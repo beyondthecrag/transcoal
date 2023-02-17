@@ -15,7 +15,7 @@ body{
 @media only screen and (max-width: 900px) {
     .title{
         font-size:5rem;
-        -webkit-text-stroke-width: 2.8px;
+        -webkit-text-stroke-width: 1.2px;
         -webkit-text-stroke-color: #f5a9b8;
         -webkit-text-fill-color: #ffffff;
         text-shadow: -2px 0 #5BCEFA, 0 2px #5BCEFA, 2px 0 #5BCEFA, 0 -2px #5BCEFA;
@@ -25,7 +25,7 @@ body{
 @media only screen and (max-width: 600px) {
 .title{
     font-size:3rem;
-    -webkit-text-stroke-width: 2.8px;
+    -webkit-text-stroke-width: 1.2px;
     -webkit-text-stroke-color: #f5a9b8;
     -webkit-text-fill-color: #ffffff;
     text-shadow: -2px 0 #5BCEFA, 0 2px #5BCEFA, 2px 0 #5BCEFA, 0 -2px #5BCEFA;
